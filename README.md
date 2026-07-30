@@ -46,10 +46,12 @@ Retail businesses generate large volumes of transactional data but often lack a 
 - **DAX** – Calculated measures (Total Sales, Profit, Profit %, etc.)
 
 ## 📁 Repository Structure
+'''
 ├── Datasets/                     # Source data files
 ├── Power BI Project File/        # .pbix file
 ├── Screenshot/                   # Dashboard page screenshots
 └── README.md
+'''
 
 ## 🚀 How to Use
 
