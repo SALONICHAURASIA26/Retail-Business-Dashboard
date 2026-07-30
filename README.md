@@ -46,3 +46,24 @@ Retail businesses generate large volumes of transactional data but often lack a 
 - **DAX** – Calculated measures (Total Sales, Profit, Profit %, etc.)
 
 ## 📁 Repository Structure
+├── Datasets/                     # Source data files
+├── Power BI Project File/        # .pbix file
+├── Screenshot/                   # Dashboard page screenshots
+└── README.md
+
+## 🚀 How to Use
+
+1. Clone/download this repository
+2. Open the `.pbix` file in Power BI Desktop
+3. Use the slicers (Country, Year, Category, Brand) to filter and explore the data across pages
+
+## 📌 Skills Demonstrated
+
+- Data modeling and relationships in Power BI
+- DAX for KPI and measure creation
+- Interactive report design (slicers, drill-through, navigation)
+- Business storytelling through data (Insights & Recommendations page)
+
+---
+**Author:** Saloni Chaurasia  
+**Connect:** [LinkedIn](https://www.linkedin.com/in/saloni-chaurasia3)
